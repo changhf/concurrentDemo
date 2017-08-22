@@ -3,11 +3,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.changhf.concurrent</groupId>
-	<artifactId>BlockingQueueDemo</artifactId>
+	<artifactId>concurrentDemo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>BlockingQueueDemo</name>
+	<name>concurrentDemo</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
